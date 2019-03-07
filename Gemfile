@@ -72,3 +72,5 @@ gem 'bootstrap'
 gem 'rails_autolink'
 
 gem 'kaminari'
+
+gem 'dotenv-rails'
